@@ -23,11 +23,11 @@ Choose one of the following categories and APIs:
 
 Next, describe your application idea. Your application idea should be simple and make use of the data received by the API. It can make use of other data if necessary.
 
-> Your application idea.
+> This application can help people search for art pieces sorted by year
 
 Write 3 - 5 user stories for your application. Include each below.
 
-> 1. As a user ...
+> 1. As a user I am a tourist in NYC and I would like to know what art I can see from Egypt
 
 > 1. As a user ...
 
